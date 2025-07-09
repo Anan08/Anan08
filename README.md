@@ -11,5 +11,5 @@ Love drawing and sometimes code/
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anan08&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # Code wars Stat
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Anan08&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
+[![Codewars Badge](https://www.codewars.com/users/Anan08/badges/large)](https://www.codewars.com/users/Anan08)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
