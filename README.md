@@ -2,7 +2,7 @@
     <img src="welcome-to-the-team.gif" alt="welcome to my profile">
     <br>
     <br>
-<div>
+</div>
 
 # HELLO! :wave:
 name's Ananda Putra Andika, i love drawing and sometimes code.
@@ -19,7 +19,7 @@ name's Ananda Putra Andika, i love drawing and sometimes code.
 <br>
 
 # Tech Stack:
-currently focusing on MERN Stack ![](exclamation.gif)![](exclamation.gif)
+currently focusing on MERN Stack
 
 <br>
 
